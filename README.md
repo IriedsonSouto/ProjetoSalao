@@ -1,4 +1,4 @@
-﻿##Projeto Salão de Beleza
+﻿###Projeto Salão de Beleza
 
 Projeto efetuado como requisito da disciplina de Programação 2, do curso de Análise e Desenvolvimento de Sistemas, pela faculdade do IFPB - Monteiro.
 
@@ -11,7 +11,7 @@ Observações:
 
 <hr>
 
-##Beauty Salon Project 
+###Beauty Salon Project 
 
 Project carried out as a requirement of the Programming 2 discipline, of the Systems Analysis and Development course, by the faculty of IFPB - Monteiro.
 
